@@ -20,8 +20,8 @@ It also aims at finding similarities between neighborhoods of Bengaluru on the b
 - Do entire locality loves veg food, if yes then locality populated by a particular set of people eg Jain, Gujarati, Marwadi who are basically veg.
 
 Problem Statement:
-The dataset containg the review of the restaurants that will help us to find rating for the place, so we will try to predict the rating of the restaurants. 
+The dataset contains the review of the restaurants that will help us to find out the rating for the place, so we will try to predict the ratings of the restaurants. 
 
 Business Objective:
-We will predict the rating based on different parameters like online oreder available,foods,average cost for two people etc.
+We will predict the rating based on different parameters like online order available,foods,average cost for two people etc.
 
